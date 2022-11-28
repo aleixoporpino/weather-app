@@ -1,12 +1,9 @@
-# fly.toml file generated for red-paper-5289 on 2022-11-28T17:18:17-05:00
+# fly.toml file generated for winter-rain-2015 on 2022-11-28T18:07:34-05:00
 
-app = "red-paper-5289"
+app = "winter-rain-2015"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
-
-[build]
-  image = "weather-app"
 
 [env]
 
